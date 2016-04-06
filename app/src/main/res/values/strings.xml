@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Realmtestapp</string>
+    <string name="toastbuttontext">Hit me!</string>
+    <string name="title_activity_secondactivity">secondactivity</string>
+</resources>
